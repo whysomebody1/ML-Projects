@@ -43,27 +43,34 @@ Copy
 Edit
 git clone https://github.com/whysomebody1/ML-Projects.git
 cd ML-Projects
+
 2️⃣ Navigate to the project folder
 
 bash
 Copy
 Edit
 cd <project-folder-name>
+
 3️⃣ Install dependencies
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 4️⃣ Run the Python script
 
 bash
 Copy
 Edit
 python script.py
+
+
 📌 Technologies Used
 Languages & Libraries: Python, Scikit-learn, TensorFlow, Pandas, Matplotlib, NumPy
 Techniques: Supervised & Unsupervised Learning, NLP, Deep Learning, Feature Engineering
+
 Tools: Jupyter Notebook, Google Colab, GitHub
+
 🔗 Feel free to explore, contribute, and provide feedback!
 🚀 Happy Coding! 🎯🔥
