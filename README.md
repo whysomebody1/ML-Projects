@@ -37,17 +37,21 @@ This repository contains multiple Machine Learning projects, each demonstrating 
 Follow these steps to run any project locally:
 
 1️⃣ Clone the repository
-git clone https://github.com/whysomebody1/ML-Projects.git
-cd ML-Projects
+
+*git clone https://github.com/whysomebody1/ML-Projects.git
+cd ML-Projects*
 
 2️⃣ Navigate to the project folder
-cd <project-folder-name>
+
+*cd <project-folder-name>*
 
 3️⃣ Install dependencies
-pip install -r requirements.txt
+
+*pip install -r requirements.txt*
 
 4️⃣ Run the Python script
-python script.py
+
+*python script.py*
 
 
 **📌 Technologies Used**
