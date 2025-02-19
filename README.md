@@ -1,7 +1,10 @@
-📌 Machine Learning Projects Repository 🚀
+**📌 Machine Learning Projects Repository 🚀**
+
 This repository contains multiple Machine Learning projects, each demonstrating different models, datasets, and techniques. The projects cover areas such as clustering, classification, sentiment analysis, and predictive modeling.
 
+
 📂 Project List
+
 🔹 1. Avg Temperatures UMAP & KMeans Clustering
 📌 Clusters average temperature data using UMAP for dimensionality reduction and KMeans for clustering.
 🔗 Project Link
