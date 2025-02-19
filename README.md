@@ -3,7 +3,7 @@
 This repository contains multiple Machine Learning projects, each demonstrating different models, datasets, and techniques. The projects cover areas such as clustering, classification, sentiment analysis, and predictive modeling.
 
 
-📂 Project List
+**📂 Project List**
 
 🔹 1. Avg Temperatures UMAP & KMeans Clustering
 📌 Clusters average temperature data using UMAP for dimensionality reduction and KMeans for clustering.
@@ -33,40 +33,24 @@ This repository contains multiple Machine Learning projects, each demonstrating 
 📌 Predicts customer churn in the newspaper industry using various classifiers.
 🔗 Project Link
 
-💡 How to Run?
+💡 **How to Run?**
 Follow these steps to run any project locally:
 
 1️⃣ Clone the repository
-
-bash
-Copy
-Edit
 git clone https://github.com/whysomebody1/ML-Projects.git
 cd ML-Projects
 
 2️⃣ Navigate to the project folder
-
-bash
-Copy
-Edit
 cd <project-folder-name>
 
 3️⃣ Install dependencies
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 4️⃣ Run the Python script
-
-bash
-Copy
-Edit
 python script.py
 
 
-📌 Technologies Used
+**📌 Technologies Used**
 Languages & Libraries: Python, Scikit-learn, TensorFlow, Pandas, Matplotlib, NumPy
 Techniques: Supervised & Unsupervised Learning, NLP, Deep Learning, Feature Engineering
 
